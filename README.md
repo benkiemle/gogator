@@ -1,6 +1,6 @@
 # GoGator
 
-gogator is a go cli for aggregating rss feeds, allowing users to follow certain rss feeds, and get information from those feeds as new items are published
+gator is a go cli for aggregating rss feeds, allowing users to follow certain rss feeds, and get information from those feeds as new items are published
 
 ## Installation
 
