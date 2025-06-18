@@ -23,7 +23,8 @@ The program expects a configuration file to exist in your home directory called 
 
 ## Usage
 
-The following commands are available from the command line. The format of commands are: ```gogator [command_name] [arguments..]```
+The following commands are available from the command line. The format of commands are: 
+```gogator [command_name] [arguments..]```
 
 | Command Name | Arguments | Desciption |
 | ------------ | --------- | ---------- |
